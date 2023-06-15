@@ -20,3 +20,14 @@ Expense Tracker is a web application designed to help you manage and track your 
 
    ```bash
    git clone https://github.com/your-username/expense-tracker.git
+   cd expense-tracker
+   
+Configure the environment variables:
+Create a .env file based on the .env.example file.
+Update the necessary variables, such as API keys and database connection information.
+Start the application:
+
+npm install
+npm start
+
+Feel free to modify and customize this template to fit the specific details and requirements of your Expense Tracker project. Add sections, update the technologies used, you can reach me on here https://www.linkedin.com/in/janeezy/
